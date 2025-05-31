@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Bharath Kumar Reddy
+### Hey 👋 I’m Bharath Kumar Reddy
 
 I'm a passionate and aspiring software developer with a strong interest in full-stack development, artificial intelligence, and open-source collaboration. I enjoy building projects that solve real-world problems and continuously seek opportunities to grow as a developer.
 
